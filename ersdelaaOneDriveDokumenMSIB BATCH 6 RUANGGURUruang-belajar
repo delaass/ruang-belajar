@@ -1,0 +1,60 @@
+[33mcommit c2dfa623fddc2ea2b3419027b32038fbfc1f6038[m[33m ([m[1;36mHEAD -> [m[1;32mdashboard-feature[m[33m)[m
+Author: delaass <dela.adhelia.syaputri99@gmail.com>
+Date:   Sat Mar 2 21:18:55 2024 +0700
+
+    change 1000 to 5 question
+
+[33mcommit 74dd4bdb74240b26b45e011ec0802cfe2c98694c[m
+Author: delaass <dela.adhelia.syaputri99@gmail.com>
+Date:   Sat Mar 2 21:17:04 2024 +0700
+
+    add 1000 question
+
+[33mcommit 400d7098bec36e805aaaf1a61f890c5032fded5e[m
+Author: delaass <dela.adhelia.syaputri99@gmail.com>
+Date:   Sat Mar 2 21:15:49 2024 +0700
+
+    add two question git init
+
+[33mcommit c6ed03fe4412b1165a2d91e1462fe7e911f91209[m
+Merge: 7426aaf e528ca8
+Author: delaass <dela.adhelia.syaputri99@gmail.com>
+Date:   Sat Mar 2 21:12:00 2024 +0700
+
+    Merge branch 'master' into dashboard-feature
+
+[33mcommit 7426aaf66a1a53c4c49f184a1134dc878f3548f9[m
+Author: delaass <dela.adhelia.syaputri99@gmail.com>
+Date:   Sat Mar 2 21:09:42 2024 +0700
+
+    finish some features on dashboard.html
+
+[33mcommit e528ca861cda078cb73b2762d55bed28919b8f8c[m[33m ([m[1;32mmaster[m[33m)[m
+Author: delaass <dela.adhelia.syaputri99@gmail.com>
+Date:   Sat Mar 2 20:51:04 2024 +0700
+
+    update paragraph github material
+
+[33mcommit 6678e2afe3243788ffd6662655e127c8c9b6efbb[m
+Author: delaass <dela.adhelia.syaputri99@gmail.com>
+Date:   Sat Mar 2 20:48:17 2024 +0700
+
+    add some paragraph git basic material
+
+[33mcommit d2c7e41eca4263dfcec3e887dff3e8c79ee46f19[m
+Author: delaass <dela.adhelia.syaputri99@gmail.com>
+Date:   Sat Mar 2 13:17:01 2024 +0700
+
+    add initial chart 1 and chart 2
+
+[33mcommit fcd5899bde877573e110d613d5a1dd806cc07fa3[m
+Author: delaass <dela.adhelia.syaputri99@gmail.com>
+Date:   Fri Mar 1 23:57:44 2024 +0700
+
+    Add pages ruang-belajar
+
+[33mcommit 52a33557d3c29011331a2bf2e4146f19ddd2d46c[m
+Author: delaass <dela.adhelia.syaputri99@gmail.com>
+Date:   Fri Mar 1 23:42:48 2024 +0700
+
+    Inisialisasi file index.html
